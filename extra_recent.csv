@@ -1,4 +1,4 @@
-Galaxy,MBH,MBH_upper,MBH_lower,sigma,sigma_upper,sigma_lower,Source_flag,References
+Galaxy,MBH_extra_recent,MBH_upper_ER,MBH_lower_ER,sigma_ER,sigma_upper_ER,sigma_lower_ER,Source_flag,References
 Holm 15A,4.00E+10,4.80E+10,3.20E+10,3.46E+02,3.59E+02,3.34E+02,extra_recent,Mehrgan et al. 2019
 NGC315,3.00E+09,3.30E+09,2.70E+09,,,,extra_recent,Pilawa et al. 2025
 4C+37.11,2.80E+10,3.60E+10,2.00E+10,3.32E+02,3.43E+02,3.21E+02,extra_recent,Surti et al. 2024
